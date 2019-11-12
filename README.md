@@ -67,6 +67,11 @@ Finally, I used a function grid.Predict on my normalized data to get the optimiz
 
 The way I was able to see my results was by plotting a classification report which would show my accuaracy. 
 
+For the initial non-optimized data I achieved a precision of 34%:
+![Initial Confusion Matrix](https://github.com/AdnanMostafa/BreastCancerTumorClassification/blob/master/Screencaptures/Initial%20Confusion%20Matrix.PNG "Initial Confusion Matrix")
+![Precision Score for Initial Confusion Matrix](https://github.com/AdnanMostafa/BreastCancerTumorClassification/blob/master/Screencaptures/Precision%20Score%20for%20Initial%20Confusion%20Matrix.PNG "Precision Score for Initial Confusion Matrix")
+
+
 For the 2nd normalized data I achieved a precision of 96%:
 ![Improved Confusion Matrix](https://github.com/AdnanMostafa/BreastCancerTumorClassification/blob/master/Screencaptures/Improved%20Confusion%20Matrix.PNG "Improved Confusion Matrix")
 ![Precision Score for Improved Confusion Matrix](https://github.com/AdnanMostafa/BreastCancerTumorClassification/blob/master/Screencaptures/Precision%20Score%20for%20Improved%20Confusion%20Matrix.PNG "Precision Score for Improved Confusion Matrix")
